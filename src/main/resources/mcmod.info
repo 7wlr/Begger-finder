@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Begger",
+  "name": "Begger finder",
+  "description": "Find beggers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/7wlr",
+  "updateUrl": "",
+  "authorList": ["7wlr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
